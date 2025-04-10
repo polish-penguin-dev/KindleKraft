@@ -1,0 +1,35 @@
+{
+    "items": [
+        {
+            "name": "KindleKraft (No kTerm!)",
+            "if": "\"kterm\" -ext!",
+            "items": [
+                {
+                    "name": "Install kTerm Extension (Required!)",
+                    "action": "sh kterm-fbink.sh"
+                }
+            ]
+        },
+        {
+            "name": "KindleKraft",
+            "if": "\"kterm\" -ext",
+            "items": [
+                {
+                    "name": "Install KindleKraft",
+                    "action": "sh install.sh",
+                    "exitmenu": false
+                },
+                {
+                    "name": "Launch",
+                    "action": "sh launch.sh",
+                    "exitmenu": false
+                },
+                {
+                    "name": "About",
+                    "action": "sh info.sh",
+                    "exitmenu": false
+                }
+            ]
+        }
+    ]
+}

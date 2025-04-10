@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+  <information>
+    <name>KindleKraft</name>
+    <version>1.0.0</version>
+    <author>Penguins184</author>
+    <id>kindle_kraft</id>
+  </information>
+  <menus>
+    <menu type="json" dynamic="true">menu.json</menu>
+  </menus>
+</extension>
