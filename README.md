@@ -18,8 +18,8 @@ Inspired By `XTMCSH`! Runs Spigot 1.7.X-1.8.X (Modded) + Azul Zulu JDK 8.
 
 ### Installation
 
-- Take The 'KKraft' Extension From Releases, Put It Into Your **extensions** Folder.
-- Take The 'Extra' Archive, Put It In The Root Of Your Kindle. Do *NOT* Extract!
+- Take The Extension From Releases, Put It Into Your **extensions** Folder.
+- Take The Archive, Put It In The Root Of Your Kindle. Do *NOT* Extract!
 - All Files Can Be Found In The GitHub Releases Tab.
 
 ### Running
