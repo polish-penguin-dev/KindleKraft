@@ -24,14 +24,13 @@ Inspired By `XTMCSH`! Runs Spigot 1.7.X-1.8.X (Modded) + Azul Zulu JDK 8.
 
 ### Running
 
+> [!TIP]
+> Use 256M Swapfile For Best Performance, Or If You Experience Issues With 128M.
+
 - Open 'KindleKraft' In KUAL, Run 'Install KindleKraft'.
 - This May Take A While, Please Be Patient!
 - After It's Complete, Run 'Launch'.
 - This Will Open kTerm - Run 'kindlekraft' In The Window To Get Started.
-
-> [!TIP]
-> Use 256M Swapfile For Best Performance, Or If You Experience Issues With 128M.
-
 - 'kindlekraft -s' Will Start The Server.
 - 'kindlekraft -i' Will Retrieve Private IP Address.
 
@@ -48,5 +47,4 @@ Inspired By `XTMCSH`! Runs Spigot 1.7.X-1.8.X (Modded) + Azul Zulu JDK 8.
 - Tested And Partially Working On Kindle Paperwhite 7th Gen (2017, PW3), Latest Firmware (Availible, 5.16.2.1.1).
 - Like The Paperwhite Above, **You May Experience Logging/UI Issues On Newer Kindles!**
 - This Should *NOT* Affect Core Functionality!
-
 - Through The Use Of KindleKraft, You Agree To [The Minecraft EULA](https://www.minecraft.net/en-us/eula).
