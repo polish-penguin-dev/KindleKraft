@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 w() {
     sleep 0.3
 }

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #KindleKraft, kTerm - From XTMCSH
 
 sleep 1

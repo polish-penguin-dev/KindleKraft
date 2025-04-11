@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 eips 1 33 "Launching kTerm..."
 sleep 0.3
 eips 1 34 "Type 'kindlekraft' To Begin!"

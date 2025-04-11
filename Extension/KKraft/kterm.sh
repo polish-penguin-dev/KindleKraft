@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #KindleKraft, Download kTerm - From XTMCSH
 
 temp_dl="/tmp/kterm-kindle.zip"
