@@ -1,8 +1,0 @@
-IMPLEMENTOR="Azul Systems, Inc."
-IMPLEMENTOR_VERSION="Zulu8.84.0.15-CA-linux_aarch32hf"
-JAVA_VERSION="1.8.0_442"
-OS_NAME="Linux"
-OS_VERSION="2.6"
-OS_ARCH="aarch32"
-SUN_ARCH_ABI="gnueabihf"
-SOURCE=".:git:582958413f5d+"

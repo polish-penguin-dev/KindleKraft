@@ -8,8 +8,8 @@ Inspired By `XTMCSH`! Runs Spigot 1.7.X-1.8.X (Modded) + Azul Zulu JDK 8.
 
 ## Installation Guide
 
-> [!WARNING]  
-> I Cannot Guarantee Performance On Kindles On/Above 5.16.3!
+> [!NOTE]  
+> This Repo's Code (Currently) Only Contains The SF Edition Of KindleKraft! Don't Worry, HF Is Supported Too, Follow The Guide.
 
 ### Prerequisites
 
