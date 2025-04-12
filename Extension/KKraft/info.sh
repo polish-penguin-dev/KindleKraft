@@ -11,7 +11,7 @@ eips 1 27 "By Penguins184; Inspired By XTMCSH"
 w
 eips 1 28 "https://penguins184.xyz"
 w
-eips 1 29 "Version 1.0.0"
+eips 1 29 "Version 1.1.0"
 w
 eips 1 30 "Code Credit License"
 w

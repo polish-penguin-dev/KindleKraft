@@ -28,7 +28,7 @@ if [ -f /mnt/us/kindlekraft-*.tar.gz ]; then
     mntroot ro
     eips 1 31 "Completed!"
     eips 1 32 "You May Now Exit The Install Wizard!"
-    eips 1 33 "Run 'Launch' In KUAL To Begin."
+    eips 1 33 "Run Launch In KUAL To Begin."
     w
     exit
 else
