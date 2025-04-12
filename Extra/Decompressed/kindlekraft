@@ -16,10 +16,10 @@ then
     sleep 0.5
     echo "Please Select Swapfile Size."
     echo
-    echo "1) 64M; Too Small"
-    echo "2) 128M; Small"
-    echo "3) 256M; *Recommended*"
-    echo "4) 512M; Too Large!"
+    echo "1) 64M; Small"
+    echo "2) 128M; *Recommended*"
+    echo "3) 256M; Reasonable"
+    echo "4) 512M; Extremely/Too Large!"
     read -p "Please Select 1-4:" s
     echo "Creating Swapfile! Please Wait..."
     case $s in
@@ -36,8 +36,8 @@ then
         dd if=/dev/zero of=/mnt/base-us/swapfile bs=1M count=512
     ;;
     *)
-        echo "Unknown Option! Swapfile Set To 256M."
-        dd if=/dev/zero of=/mnt/base-us/swapfile bs=1M count=256
+        echo "Unknown Option! Swapfile Set To 128M."
+        dd if=/dev/zero of=/mnt/base-us/swapfile bs=1M count=128
     ;;
     esac
     echo "Finishing Up..."
@@ -71,7 +71,7 @@ then
 elif [ "$1" = "--version" ] || [ "$1" = "-v" ] #  Version Command
 then
     echo "KindleKraft Hardcoded Versions:"
-    echo "KindleKraft: 1.1.0,"
+    echo "KindleKraft: 1.0.0,"
     echo "Java: 8u442b06 (Zulu: 8.84.0.15 - Arm32 SF),"
     echo "Server: [Default On Install] Spigot 1.7-1.8[.X],"
     echo "Last Changed: 04/2025."

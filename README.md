@@ -8,18 +8,15 @@ Inspired By `XTMCSH`! Runs Spigot 1.7.X-1.8.X (Modded) + Azul Zulu JDK 8.
 
 ## Installation Guide
 
-> [!NOTE]  
-> This Repositories Code (Currently) Only Contains The SF Edition Of KindleKraft! Don't Worry, HF Is Supported Too, Follow The Guide.
+> [!WARNING]  
+> Ensure Your Kindle Is On A Firmware Version Below 5.16.3! (This Software Utilises Soft-Float JDK Installation, Breaks Scripts...)
 
 ### Prerequisites
 
 - kTerm
-- (Jailbroken) Kindle 
+- Kindle (Firmware < 5.16.3)
 
 ### Installation
-
-> [!IMPORTANT]  
-> Using Firmware >= 5.16.3? Ensure You Use The Appropriate Archive Version! (Hard Float)
 
 - Take The Extension From Releases, Put It Into Your **extensions** Folder.
 - Take The Archive, Put It In The Root Of Your Kindle. Do *NOT* Extract!
