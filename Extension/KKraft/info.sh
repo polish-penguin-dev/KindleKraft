@@ -19,7 +19,7 @@ eips 1 31 "===About Java==="
 w
 eips 1 32 "Java 8u442b06 (Zulu: 8.84.0.15)"
 w
-eips 1 33 "Arm 32-Bit"
+eips 1 33 "Arm 32-Bit SF"
 w
 eips 1 34 "https://www.azul.com/downloads"
 sleep 5
